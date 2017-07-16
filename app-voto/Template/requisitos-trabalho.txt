@@ -1,0 +1,14 @@
+Data de entrega — 28 junho;
+
+Dois sistemas:
+
+Mobile:
+	 - Votação;
+	 	 - Login e senha da pessoa que irá votar;
+	 	 - Através do formulário;
+
+Web:
+	 - Cadastro dos cadidados;
+	 	 - Formulário de cadastro dos candidatos;
+	 	 - Login e senha do administrador;
+	 	 - Relatório;
